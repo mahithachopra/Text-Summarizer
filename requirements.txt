@@ -1,0 +1,5 @@
+ streamlit 
+ sumy
+ PyPDF2
+ nltk
+ python-docx
